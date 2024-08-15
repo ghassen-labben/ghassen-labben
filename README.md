@@ -1,6 +1,6 @@
 # 👽 Ghassen Labben
 
-**`Software engineer (student)`**
+**`Software engineer `**
 
 I'm Ghassen Labben, a software engineering student deeply passionate about solving algorithmic problems. I take pride in building software from the ground up, following best practices and design patterns. My strength lies in fast learning; I can master new tools within days. I firmly believe that technology is just a tool, and the essence lies in my thinking and programming abilities to creatively solve problems. My focus is on delivering elegant and efficient solutions, adhering to timeless software craftsmanship principles.
 
